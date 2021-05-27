@@ -3,7 +3,7 @@ Lab courses of the "Fortgeschrittenen Praktikum" an der Universität Heidelberg 
 
 - F44: Zeeman spectroscopy
 - F47: Penning trap
-- F56: coming soon
+- F56: Radioactive tracers in environmental research
 - F69: Laue X-ray crystallography
 - F70: Basics of mechanics and vacuum
 - F85: Optic basics
